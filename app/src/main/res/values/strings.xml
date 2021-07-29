@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">setu</string>
+    <string name="covid_tracker_app">Covid Tracker App</string>
+    <string name="states">STATES</string>
+</resources>
